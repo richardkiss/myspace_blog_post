@@ -17,7 +17,7 @@ $ cp example.py richardkiss.py
 Then edit the copy with your secret informations (sic). You will need your WordPress MySQL DB info
 and your MySpace login. But that's all!
 
-You will get a very simple menu with a list of 
+You will get a very simple menu with a list of all posts in the WordPress DB. Choose one, and it will be automatically posted to MySpace.
 
 
 Richard Kiss
